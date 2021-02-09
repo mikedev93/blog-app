@@ -121,7 +121,7 @@ class HomeFragment : Fragment(), NewsFeedContract.NewsFeedView, ArticleAdapter.O
         params[APIConstants.SORT_BY] = "relevancy"
         Handler().postDelayed(Runnable {
             newsPresenter?.getAllArticles(params)
-        }, 3000)
+        }, 1500)
     }
 
     private fun setScrollListener() {
