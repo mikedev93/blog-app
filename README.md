@@ -49,7 +49,7 @@ Edit the ``API KEY`` atribute in ``APIConstants.kt`` with your own API Key, and 
 *  **Endless Scroll**
 
 When you reach the bottom of the list, more articles from the server are added.<br>
-![Endless Scroll](https://media.giphy.com/media/GFwOKyrE1X5zEpXyCQ/giphy.gif)
+![https://media.giphy.com/media/GFwOKyrE1X5zEpXyCQ/giphy.gif](https://media.giphy.com/media/GFwOKyrE1X5zEpXyCQ/giphy.gif)
 
   
 
